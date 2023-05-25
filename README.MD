@@ -1,5 +1,5 @@
 
-# Jobify
+# JobTrackr
 
 #### Track Your Job Search
 
